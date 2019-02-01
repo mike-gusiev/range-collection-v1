@@ -1,0 +1,14 @@
+{
+  "name": "range-collection-v1",
+  "version": "1.0.0",
+  "description": "Range Collection with 3rd party lib",
+  "main": "RangeCollection.js",
+  "scripts": {
+    "start": "node RangeCollection.js"
+  },
+  "author": "Mike Gusev",
+  "license": "ISC",
+  "dependencies": {
+    "ranges-calc": "^1.0.1"
+  }
+}
